@@ -7,11 +7,11 @@ console.log(promedio);
 let num4 = -2;
 let num5 = -3;
 let num6 = -8;
-let promedio2 = (num4 + num5 + num6) / 3;
-console.log(promedio2);
+let promedio1 = (num4 + num5 + num6) / 3;
+console.log(promedio1);
 
 let num7 = -1.2;
 let num8 = 5.3;
 let num9 = -3.3;
-let promedio3 = (num7 + num8 + num9) / 3;
-console.log(promedio3);
+let promedio2 = (num7 + num8 + num9) / 3;
+console.log(promedio2);
