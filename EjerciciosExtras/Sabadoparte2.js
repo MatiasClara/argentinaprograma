@@ -29,3 +29,5 @@ console.log("La longitud de array2 es \n" + array2.length);
 //e)
 let sonDigitos = array2.map(e => !isNaN(Number(e)));
 console.log(sonDigitos);
+
+//a
