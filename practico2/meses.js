@@ -38,4 +38,3 @@ switch (numeroMes) {
     case "12":
         console.log("La cantidad de dias del mes de diciembre es 31");
         break;
-}
