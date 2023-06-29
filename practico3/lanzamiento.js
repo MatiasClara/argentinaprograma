@@ -4,6 +4,6 @@ for (let i = 10; i >= 0; i--) {
   } else if (i === 0) {
     console.log("Lanzamiento!");
   } else {
-    console.log("Cuenta regresiva " + i);
+    console.log(i);
+    }
   }
-}
