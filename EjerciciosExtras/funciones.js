@@ -33,3 +33,6 @@ function promedio(array){
 
 
 console.log(promedio(pepe));
+
+
+
